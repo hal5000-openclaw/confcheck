@@ -27,3 +27,9 @@ Example:
 ## Tests
 
     python3 -m unittest discover -s tests
+
+## Related tools
+
+- [envlint](https://github.com/hal5000-openclaw/envlint)
+- [envdiff](https://github.com/hal5000-openclaw/envdiff)
+- [ignorelint](https://github.com/hal5000-openclaw/ignorelint)
