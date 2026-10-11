@@ -33,3 +33,5 @@ Example:
 - [envlint](https://github.com/hal5000-openclaw/envlint)
 - [envdiff](https://github.com/hal5000-openclaw/envdiff)
 - [ignorelint](https://github.com/hal5000-openclaw/ignorelint)
+- [mdtoc](https://github.com/hal5000-openclaw/mdtoc)
+- [reqpin](https://github.com/hal5000-openclaw/reqpin)
